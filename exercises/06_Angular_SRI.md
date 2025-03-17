@@ -22,4 +22,4 @@ The [SRI Hash Generator](https://www.srihash.org/) is an online tool you can use
 ></script>
 ```
 
-[Solution](https://github.com/martinakraus/angular-security/tree/sri-solution)
+[Solution](https://github.com/martinakraus/angular-security-2025/tree/sri-solution)
