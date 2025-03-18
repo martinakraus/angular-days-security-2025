@@ -3,6 +3,7 @@
 ### CSP Nonces
 
 - Checkout Branch `csp-nonces` (`git checkout csp-nonces`)
+- Since we now also implement a server we have new dependencies inside the `package.json` (you need to run `npm install` again)
 - Make sure the XSS attack takes place so we know we mitigate it with the CSP Header
 - Now we need to configure our CSP Nonces on the server:
 - Insert the Angular 'ngCspNonce'-Attribute to the `app-root`-HTML Tag and set the Value to 'myRandomNonce'
